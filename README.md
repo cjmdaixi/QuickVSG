@@ -2,6 +2,9 @@
 
 This is a basic demo for integrating the framework [VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) to QtQuick. 
 
+Screenshots:
+![QuickVSG demo](screenshots/demo.png)
+
 Features:
 1. Provide a standard QQuickItem-based control, called `Canvas`, rendered by VSG and can be integrated seamlessly into QtQuick app;
 2. Support mouse interaction, key events and resizing;
