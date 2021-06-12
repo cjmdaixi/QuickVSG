@@ -1,0 +1,6 @@
+CMakeLists.txt.user
+.vscode
+out
+.vs
+*.user
+*build*
